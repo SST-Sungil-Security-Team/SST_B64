@@ -1,16 +1,16 @@
 #!/bin/bash
 
-figlet -k -c SST B64decode
+figlet -k -c SST Base64
 
 echo "1.Encode 2.Decode"
-read input
+echo -n '> ';read input
 
 if [ "$input" -eq "1" ] ; then
-    read text
+    echo -n '> ';read text
     echo $text | base64
 
 elif [ "$input" -eq "2" ] ; then
-    read text
+    echo -n '> ';read text
     echo $text | base64 --decode
 
 else
