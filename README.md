@@ -1,15 +1,15 @@
 # SST_B64
 
-  <img width="578" alt="image" src="https://user-images.githubusercontent.com/82009667/219846896-539a64c8-4b39-43e2-9bec-1ed910d1a47d.png">
+  <img width="579" alt="image" src="https://user-images.githubusercontent.com/82009667/219847184-cfac5c18-07ed-4d98-8f7a-532cbc090eb0.png">
 
 # How to use
 1.Encode
 
-<img width="556" alt="image" src="https://user-images.githubusercontent.com/82009667/219847103-6d9e3cb1-629a-4bdd-a40b-4b05d5c7c171.png">
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/82009667/219847203-268b49f4-f68a-46de-a4d3-ef9ec45f3c87.png">
 
 2.Decode
 
-<img width="577" alt="image" src="https://user-images.githubusercontent.com/82009667/219847112-aa351c76-438f-4eb8-85ea-bc626c77d9e2.png">
+<img width="579" alt="image" src="https://user-images.githubusercontent.com/82009667/219847217-d72e17ee-1d27-4d5c-af1a-218774371515.png">
 
 
 # Install
